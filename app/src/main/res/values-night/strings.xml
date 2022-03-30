@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="go_to_second">Go to Second</string>
+    <string name="go_to_first">Go to Fisrt</string>
+    <string name="add_image">Add Image</string>
+</resources>

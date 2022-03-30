@@ -19,7 +19,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        title = "KotlinApp"
         imageView = findViewById(R.id.imageView)
         button = findViewById(R.id.buttonLoadPicture)
         button.setOnClickListener {
